@@ -1794,6 +1794,10 @@ header .header-mobile .header-toggle i {
     font-size: 15px;
 }
 
+.img-border-raidius {
+    border-radius: 10px;
+}
+
 
 /*============ 12. Mobile Responsive Css ============*/
 
