@@ -1012,6 +1012,7 @@ header .header-mobile .header-toggle i {
 
 .about-section .about .signature {
     width: 50%;
+    margin-left: -110px;
 }
 
 .about-section .about .about-info ul li {
@@ -1661,7 +1662,8 @@ header .header-mobile .header-toggle i {
 }
 
 .ajax-portfolio-popup .single-work .information li {
-    display: inline-block;
+    /* display: inline-block; */
+    /* text-align: left; */
     margin: 0 20px;
     font-size: 18px;
 }

@@ -1009,6 +1009,7 @@ header .header-mobile .header-toggle i {
 
 .about-section .about .signature {
     width: 50%;
+    margin-left: -110px;
 }
 
 .about-section .about .about-info ul li {
