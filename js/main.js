@@ -388,7 +388,7 @@ function sendCustomerInfo() {
         message
     });
     console.log('body ', body);
-    fetch('http://localhost:5000/mail', {
+    fetch('https://asm3-nodejs-me79.onrender.com/mail', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
